@@ -1,7 +1,7 @@
 
-Library/*
-Logs/*
-Temp/*
+Source Code/Library/*
+Source Code/Logs/*
+Source Code/Temp/*
 
-.vsconfig
-*.sln
+Source Code/.vsconfig
+Source Code/*.sln
